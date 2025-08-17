@@ -1,0 +1,2 @@
+1. When the number of hidden nodes increase, the capacity to learn increases while also increasing its accuracy.
+2. Usually starts low, then increases and reaches a peak, then stays unchanged or decreases.
